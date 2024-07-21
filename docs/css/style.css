@@ -36,5 +36,9 @@ p {
 @media screen and (max-width: 800px) {
   .left, .main, .right {
     width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+    background-color:#4E3CC3;
+    font-family: Arial, Verdana, Helvetica;
+    text-align: center;
+    font-size:10vw
   }
 }
