@@ -3,7 +3,7 @@ body {
     font-family: Arial, Verdana, Helvetica;
 }
 
-p {
+a,p {
     text-align: center;
     font-size:1vw;
 }
@@ -60,7 +60,7 @@ h2, h4 {
     font-size: 3vw
   }
 
-  h6 {
+  a,h6 {
     font-size:2vw;
   }
 }
