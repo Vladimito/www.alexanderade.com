@@ -5,9 +5,13 @@ body {
 
 p {
     text-align: center;
-    font-size:10vw
+    font-size:5vw;
 }
 
+h1 {
+  text-align: center;
+  font-size: 10vw;
+}
 /* Formatting for social links*/
 .socials {
     text-align:center;
