@@ -5,24 +5,31 @@ body {
 
 p {
     text-align: center;
+    font-size:1vw;
 }
 
 h1{
   text-align: center;
+  font-size: 3vw;
+}
+
+h2, h4 { 
+  text-align: center;
+  font-size: 2vw;
 }
 
 /* Formatting for social links*/
 .socials {
     text-align:center;
     color: white;
-    font-size:3vw;
+    font-size:2vw;
 }
 
 /* Formatting for projects portion */
 .projects {
     text-align:center;
     outline-style: dashed;
-    font-size:10vw;
+    font-size:2vw;
 }
 
 .left, .right {
