@@ -1,11 +1,11 @@
 body {
     background-color:#4E3CC3;
     font-family: Arial, Verdana, Helvetica;
+    font-size: 5vw;
 }
 
 p {
     text-align: center;
-    font-size:5vw;
 }
 
 h1 {
