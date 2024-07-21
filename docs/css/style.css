@@ -18,6 +18,10 @@ h2, h4 {
   font-size: 2vw;
 }
 
+img {
+  max-width: 100%;
+  height:auto;
+}
 /* Formatting for social links*/
 .socials {
     text-align:center;
@@ -47,7 +51,7 @@ h2, h4 {
   .left, .main, .right {
     width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
   }
-
+  
   h1 {
     font-size: 10vw;
   }
@@ -60,7 +64,7 @@ h2, h4 {
     font-size: 3vw
   }
 
-  a,h6 {
-    font-size:2vw;
+  a,h3 {
+    font-size:4vw;
   }
 }
