@@ -1,11 +1,12 @@
 body {
-    background-color:#4E3CC3;
+    background: #AAA2E2;
     font-family: Arial, Verdana, Helvetica;
 }
 
 a,p {
     text-align: center;
     font-size:1vw;
+    font-weight: bold;
 }
 
 h1{
@@ -22,11 +23,16 @@ img {
   max-width: 100%;
   height:auto;
 }
+
+uL.navBar {
+  list-style-type: none;margin: 0;
+  padding: 0;
+}
 /* Formatting for social links*/
 .socials {
     text-align:center;
-    color: white;
     font-size:2vw;
+
 }
 
 /* Formatting for projects portion */
